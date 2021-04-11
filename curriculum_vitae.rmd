@@ -1,0 +1,89 @@
+---
+title: "Eduardo Lima"
+author: "19 98330 4636"
+date: ""
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Contact
+19 98330 4636 (Mobile)
+
+[lima.vaz.eduardo@gmail.com](mailto:lima.vaz.eduardo@gmail.com)<br>
+[LinkedIn](https://www.linkedin.com/in/eduardo1lima/ "Eduardo Lima's LinkedIn")
+
+## Objective
+Project Manager
+
+
+## About
+> I have been learning about Software Development Projects every since I finished college.<br>
+I have seen many technologies coming and going.<br>
+Many programming languages glowing and fading away.<br>
+Many management approaches fighting to be number one.<br>
+
+> What I have learned so far … ?<br>
+I’ve learned People create successful projects, not tools.<br>
+Successful projects are defined by the customer.<br>
+People should be the priority as well as Continuous Improvement is the only way to go.<br>
+
+## Qualifications:
+Professional experienced in Software Development Projects, with many hours logged in projects using both, traditional approach as well as Agile methodologies.
+
+Jira Cloud administrator and Kanban heavy user.
+
+Believer that people should be the priority, continuous improvement is the way to go and communication plays a major role in achieving the objectives.
+
+Experienced Instructor training employees to use department tools and procedures.
+
+Continuous learner, got certified in PMI-PMP®, PMI-ACP®, CSM and Lean IT Foundation.
+
+With strong international experience, has worked/studied abroad in Sweden, England and the USA.
+
+Familiar with working in multicultural overseas groups. 
+
+## Experience
+### DHL Supply Chain
+Senior Integration Specialist<br/>
+Feb 2018 – Present
+
+- Our team makes it possible to connect a customer's logistic request to a DHL
+warehouse and vice versa. Since companies' EDIs do not share a common standard,
+we create software maps to make sure the correct translation takes place.
+
+- Responsible for introducing a new way of managing software projects for NORAM and
+LATAM regions, using Jira environment, translating business requirements into
+stories, improving communication with developers using tasks and sub-tasks and
+extracting important project data to stakeholders through a set of Key Performance
+Indicators, fetched from Jira.
+
+- Kanban heavy user. Currently Jira Cloud administrator.
+
+- Experienced Instructor in training employees to use department tools and
+procedures.
+
+- Passionate for automation of daily routine tasks, created a script to summarize
+necessary information, in a standard way, to be sent to overseas development team.
+Believer that communications plays an important role in project success.
+
+- Facilitator of a team of developers spread in Asia and Americas.
+---
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
