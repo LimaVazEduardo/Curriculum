@@ -4,56 +4,70 @@
 #### Campinas, São Paulo, Brazil
 
 #### Contact
-19 98330 4636 (Mobile)<br/>
-lima.vaz.eduardo@gmail.com<br/>
+19 98330 4636 (Mobile)  
+lima.vaz.eduardo@gmail.com  
 [www.linkedin.com/in/eduardo1lima](www.linkedin.com/in/eduardo1lima "Eduardo Lima's LinkedIn")
 
 #### Table of contents
+
+<!-- MarkdownTOC autolink="true" -->
+
 - [About](#about)
-- [Qualifications](#qualifications)
+- [Qualifications:](#qualifications)
 - [Experience](#experience)
-  - [DHL Supply Chain](#dhl-supply-chain)
-  - [Instituto de Pesquisas Eldorado](#instituto-de-pesquisas-eldorado)
-  - [Ericsson Telecommunication](#ericsson-telecommunication)
-  - [FITec](#fitec)
-  - [Sanmina-SCI](#sanmina-sci)
-  - [Ericsson Telecommunication](#ericsson-telecommunication)
-  - [Fundação Dr. Amaral Carvalho](#fundação-dr-amaral-carvalho)
+	- [DHL Supply Chain](#dhl-supply-chain)
+	- [Instituto de Pesquisas Eldorado](#instituto-de-pesquisas-eldorado)
+	- [Ericsson Telecommunication GSDC](#ericsson-telecommunication-gsdc)
+	- [FITec](#fitec)
+	- [Sanmina-SCI](#sanmina-sci)
+	- [Ericsson Telecommunication R&D](#ericsson-telecommunication-rd)
+	- [Fundação Dr. Amaral Carvalho](#funda%C3%A7%C3%A3o-dr-amaral-carvalho)
+- [Education](#education)
+- [Courses](#courses)
+	- [Universidade Estadual de Campinas](#universidade-estadual-de-campinas)
 - [Certifications](#certifications)
-  - [Lean IT Foundation (LITA)](#lean-it-foundation-lita)
-  - [PMI Agile Certified Practitioner (PMI-ACP)®](#pmi-agile-certified-practitioner-pmi-acp)
-  - [Project Management Professional (PMP)®](#project-management-professional-pmp)
-  - [Ericsson Certified Technology-IP (ECT-IP)](#ericsson-certified-technology-ip-ect-ip)
+	- [Lean IT Foundation \(LITA\)](#lean-it-foundation-lita)
+	- [PMI Agile Certified Practitioner \(PMI-ACP\)®](#pmi-agile-certified-practitioner-pmi-acp)
+	- [Project Management Professional \(PMP\)®](#project-management-professional-pmp)
+	- [Ericsson Certified Technology-IP \(ECT-IP\)](#ericsson-certified-technology-ip-ect-ip)
+- [Volunteer](#volunteer)
+	- [ATEAC \(Campinas\): 2011 - now.](#ateac-campinas-2011---now)
+
+<!-- /MarkdownTOC -->
+
+
+
+
 
 ## About
-> I have been learning about Software Development Projects every since I finished college.<br/>
-I have seen many technologies coming and going.<br/>
-Many programming languages glowing and fading away.<br/>
-Many management approaches fighting to be number one.<br/>
+> I have been learning about Software Development Projects every since I finished college.  
+I have seen many technologies coming and going.  
+Many programming languages glowing and fading away.  
+Many management approaches fighting to be number one.  
 
-> What I have learned so far … ?<br/>
-I’ve learned People create successful projects, not tools.<br/>
-Successful projects are defined by the customer.<br/>
-People should be the priority as well as Continuous Improvement is the only way to go.<br/>
+> What I have learned so far … ?  
+I’ve learned People create successful projects, not tools.  
+Successful projects are defined by the customer.  
+People should be the priority as well as Continuous Improvement is the only way to go.  
 
 ## Qualifications:
-Professional experienced in Software Development Projects, with many hours logged in projects using both, traditional approach as well as Agile methodologies.
+- Professional experienced in Software Development Projects, with many hours logged in projects using both, traditional approach as well as Agile methodologies.
 
-Jira Cloud administrator and Kanban heavy user.
+- Jira Cloud administrator and Kanban heavy user.
 
-Believer that people should be the priority, continuous improvement is the way to go and communication plays a major role in achieving the objectives.
+- Believer that people should be the priority, continuous improvement is the way to go and communication plays a major role in achieving the objectives.
 
-Experienced Instructor training employees to use department tools and procedures.
+- Experienced Instructor training employees to use department tools and procedures.
 
-Continuous learner, got certified in PMI-PMP®, PMI-ACP®, CSM and Lean IT Foundation.
+- Continuous learner, got certified in PMI-PMP®, PMI-ACP®, CSM and Lean IT Foundation.
 
-With strong international experience, has worked/studied abroad in Sweden, England and the USA.
+- With strong international experience, has worked/studied abroad in Sweden, England and the USA.
 
-Familiar with working in multicultural overseas groups. 
+- Familiar with working in multicultural overseas groups. 
 
 ## Experience
 ### DHL Supply Chain
-Senior Integration Specialist<br/>
+Senior Integration Specialist  
 Feb 2018 – Present
 
 - Our team makes it possible to connect a customer's logistic request to a DHL
@@ -76,18 +90,19 @@ necessary information, in a standard way, to be sent to overseas development tea
 Believer that communications plays an important role in project success.
 
 - Facilitator of a team of developers spread in Asia and Americas.
+
 ---
 
 ### Instituto de Pesquisas Eldorado
-Senior Software Engineer<br/>
+Senior Software Engineer  
 May 2015 – Mar 2017
 
 - Worked on a end to end project aimed to transfer Android certification process (Radio-Frequency, Safety and Radiation Absorption) from Motorola US to Lenovo headquarters in Asia, saving a great amount of man-hours due to the implementation of a documenting processes, reducing communication noise among teams located at China, US and Brazil.
 
 ---
 
-### Ericsson Telecommunication
-System Integration Engineer<br/>
+### Ericsson Telecommunication GSDC
+System Integration Engineer  
 Sep 2005 – Dec 2013
 
 - I worked as a point of contact for a particular product, RPC, in the Global Software Distribution Centre, GSDC.
@@ -104,7 +119,7 @@ see less
 ---
 
 ### FITec
-System Development Engineer<br/>
+System Development Engineer  
 Mar 2004 – Aug 2005
 
 - I coordinated a group of 4 engineers in a project of a graphical command user interface, GUI for Lucent. At that time, the health of the project was measured by the Earned Value Analysis and Risk Assessment, according to PMP methodology.
@@ -114,7 +129,7 @@ Mar 2004 – Aug 2005
 ---
 
 ### Sanmina-SCI
-Project Team Lead<br/>
+Project Team Lead  
 Mar 2003 – Mar 2004
 
 - Overnight I stopped managing technology to start managing people, resources, budget and pieces of equipment.
@@ -127,8 +142,8 @@ Mar 2003 – Mar 2004
 
 ---
 
-### Ericsson Telecommunication
-Telecom System Analyst<br/>
+### Ericsson Telecommunication R&D 
+Telecom System Analyst  
 Oct 2000 – Mar 2003
 
 - R&D Centre
@@ -143,8 +158,8 @@ Oct 2000 – Mar 2003
 
 ---
 
-### Fundação Dr. Amaral Carvalho
-Clinical Engineer<br/>
+### Fundação Dr. Amaral Carvalho  
+Clinical Engineer  
 Jun 1995 – Feb 2000
 
 - Responsible for assessing technology in a hospital environment and managing healthcare equipment life cycle.
@@ -152,37 +167,55 @@ Jun 1995 – Feb 2000
 - Was able to enhance patient safety at the hospital environment by managing equipment procurement and retirement, as well as managing maintenance of a broad family of healthcare equipment.
 
 - Responsible for a group of 9 craftsman and 1 electrician.
+
 ---
-## Education
-#### The University Center of FEI
-- Engineer's Degree, Electrical and Electronics Engineering · (1986 - 1991)
-#### UNICAMP - Universidade Estadual de Campinas
-- Engineer's Degree, Clinical Engineering · (1994 - 1995)
-#### Fundação Getulio Vargas / FGV
-- Business Administration and Management, General · (1999 - 2000)
-#### UNICAMP - Universidade Estadual de Campinas
-- Engineer's Degree, Object Oriented Programing · (2003 - 2004)
-#### Universidade Estadual de Campinas
+
+## Education  
+
+
+Intitute | Subject | Year
+-----|-----|----
+Faculdade de Engenharia Industrial - FEI |Engineer's Degree, Electrical and Electronics Engineering | 1986 - 1991
+Universidade Estadual de Campinas - UNICAMP | Engineer's Degree, Clinical Engineering | 1994 - 1995
+Fundação Getulio Vargas - FGV | Business Administration and Management, General | 1999 - 2000
+Universidade Estadual de Campinas - UNICAMP  | Engineer's Degree, Object Oriented Programing | 2003 - 2004
+
+<br>
+
+---
+
+## Courses
+
+Subject | Instituon
+----|----  
+Finance Mathematics and Excel | UNICAMP  
+R for Data Science | Harvard
+
+### Universidade Estadual de Campinas
 - Finance Mathematics and Excel · (2011 - 2011)
 
+---
 
 ## Certifications
-#### Lean IT Foundation (LITA)
+### Lean IT Foundation (LITA)
 - Issue date: July 2020
 - Certification Number: 6342243.20795754
 - [See credential](https://app.exeed.pro/holder/badge/64689)
-#### PMI Agile Certified Practitioner (PMI-ACP)®
+
+### PMI Agile Certified Practitioner (PMI-ACP)®  
 - Issue date: March 2018
 - Certification Number: 2167691
 - [See credential](https://www.youracclaim.com/badges/da494590-2ef9-467c-b19e-f0b2ef588c21/linked_in_profile)
-#### Project Management Professional (PMP)®
+
+### Project Management Professional (PMP)®
 - Issue date: February 2015
 - Certification Number: 1789797
 - [See credential](https://www.youracclaim.com/badges/040bafc3-b813-439b-9334-a65cb5178b41)
-#### Ericsson Certified Technology-IP (ECT-IP)
+
+### Ericsson Certified Technology-IP (ECT-IP)
 - Issue date: August 2013
 
 
 ## Volunteer
-#### ATEAC (Campinas): 2011 - now.
+### ATEAC (Campinas): 2011 - now.
 Children assisted therapy with dogs.
