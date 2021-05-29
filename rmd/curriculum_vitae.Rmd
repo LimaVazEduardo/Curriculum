@@ -6,11 +6,12 @@ output:
   html_document:
     highlight: textmate
     theme: flatly
-    number_sections: no
-    toc: yes
+    number_sections: false
+    toc: true
+    toc_depth: 1
     toc_float:
-      collapsed: yes
-      smooth_scroll: no
+      collapsed: false
+      smooth_scroll: false
   pdf_document:
     toc: yes
 subtitle: ''
@@ -215,8 +216,9 @@ kable(head(courses, 10), col.names = c("Institution", "Subject", "Year")) %>%
 # Volunteer
 ## ATEAC - Atividades, Terapias e Educação Assistida por Animais de Campinas
 [ATEAC](http://ateac.org.br/) 
-2011 - now.  
-Children assisted therapy with dogs.  
+2011 - Present
+
+- Children assisted therapy with dogs.  
 We take dogs to the Pediatric ward, and walk with the kids, in exchange for a smile :)
   
 
