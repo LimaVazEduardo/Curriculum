@@ -1,17 +1,19 @@
 ---
 title: "Curriculum Vitae"
-author: ""
-subtitle: ""
+author: ''
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
-    html_document:
-       highlight: textmate
-       theme: flatly
-       number_sections: no
-       toc: yes
-       toc_float:
-         collapsed: yes
-         smooth_scroll: no
+  html_document:
+    highlight: textmate
+    theme: flatly
+    number_sections: no
+    toc: yes
+    toc_float:
+      collapsed: yes
+      smooth_scroll: no
+  pdf_document:
+    toc: yes
+subtitle: ''
 ---
 
 
@@ -47,7 +49,7 @@ Lean IT | PMP | ACP | CSM | Project Management
 ## Contact
 Tel: 19 98330 4636  
 e-mail: lima.vaz.eduardo@gmail.com  
-[www.linkedin.com/in/eduardo1lima](www.linkedin.com/in/eduardo1lima "Eduardo Lima's LinkedIn")  
+LinkedIn: [linkedin.com/in/eduardo1lima](https://www.linkedin.com/in/eduardo1lima/ "Eduardo Lima's LinkedIn")  
 Campinas   
 São Paulo, Brazil    
   
