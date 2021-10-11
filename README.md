@@ -12,16 +12,25 @@ color and size.
 
 ### Hands on  
 
-1. Open R Studio and install package Vitae:
+1. Open R Studio:  
+  Install package Vitae
 
 1. Create new file from template:  
-  After package installation, go to:  
+  Go to:  
   `File > New file > RMardown > From Template`  
-  Choose `Curriculum vitae (Hyndman format) {vitae}`  
+  Choose:  
+  `Curriculum vitae (Hyndman format) {vitae}`  
   
-1. R Studio will create a new folder and two files inside.
+1. R Studio will create a new folder and two files inside:
+  ```
+  ├── Curriculum
+  │            ├── Hyndman
+  │            │         ├── Hyndman.Rmd
+  │            │         └── packages.bib
+  
+  ```
 
-1. Create folder `r`. See below:
+4. Create folder `/r`: 
   ```
   ├── Curriculum
   │            ├── Hyndman
@@ -32,8 +41,10 @@ color and size.
   
   ```
 
-5. Create a data source file, `data.R` inside a separated folder `/r`.  
-  This file works like a mini database, with tabular information created inside a simple *Tribble*. See an example below:
+5. Create a data source file, `r/data.R`:  
+  This file will work like a mini database, with tabular information created 
+  inside a simple *Tribble*.  
+  See an example below:  
   ```
   # Education
   
@@ -42,15 +53,18 @@ color and size.
     "FEI", "Engineer's Degree", "São Paulo", "1991",
     "UNICAMP", "Engineer's Degree", "Campinas", "1995"
   )
+  
   ```
-6. In this example, vector `education` will have 04 columns and will be accessible 
-from `Hyndman.Rmd` script using the following loading command:
+6. In the above example, vector `education` will have 04 columns (Institute, 
+Subject, Where and Year) and will be accessible from `Hyndman.Rmd` script, using the following load command:
   ```
-  row#20
   source("../r/data.R")
   
   ```
-7. After running above command, all vectors created in `data.R`, file will be available at `Hyndman.Rmd` script. See  R Studio tab Environment, on the right hand side.
+7. After running above command, all vectors created in `data.R` file, will be displayed in R Studio tab Environment, on the right hand side.
+
+1. Case it is necessary to update your curriculum, the idea is to update only the file `data.R` and leave `Hyndman.Rmd` do the work of formatting for you. Great 
+isn't it?
 
 ### How it works  
 
@@ -67,17 +81,25 @@ linkedin:  eduardo1lima
 headcolor: 000080             # Navy blue
 date:      "`r format(Sys.time(), '%B %Y')`"
 output: vitae::hyndman
+
 ```
 
 
-Vitae package basically works with two functions (keep it simple):
+Vitae package basically works with two functions (keep it simple).
 
 * `detailed_entries` 
 * `brief_entries`
 
+```Usage
+detailed_entries(data, what, when, with, where, why, .protect = TRUE)
+brief_entries   (data, what, when, with, .protect = TRUE)
+
+```
+
+
 I used the first function to display information in the curriculum.
 
-You will need to call your vector and then use the pipe operator `%>%` to call 
+You will need to access your vector and then use the pipe operator `%>%` to call 
 one of the functions.
 
 ```
@@ -85,25 +107,27 @@ education %>%
   detailed_entries(what = subject,
                    when = year,
                    with = institute)
+                   
 ```
 
 This is the tricky part, because you need to try-and-error all entries of
 each function to display the correct information in the output PDF file.
 
-Once all vectors are called from `data.R`, you can use the command `Knit` in R 
-Studio to generate a PDF file of your curriculum according to Hyndman layout.
+
+
+Once all vectors are called from your database, `data.R`, you can use the command `Knit` in R Studio to generate a PDF file of your curriculum according to Hyndman layout.
 
 See a real curriculum example in PDF format at: `Curriculum/Hyndman/Hyndman.pdf`.
 
 
 ```
 ├── Curriculum
-│             ├── Hyndman
-│             │         ├── Hyndman.pdf
-│             │         ├── Hyndman.Rmd
-│             │         └── packages.bib
-│             ├── r
-│             │   └── data.R
+│           ├── Hyndman
+│           │         ├── Hyndman.pdf
+│           │         ├── Hyndman.Rmd
+│           │         └── packages.bib
+│           ├── r
+│           │   └── data.R
 
 ```
 
