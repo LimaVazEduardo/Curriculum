@@ -117,7 +117,7 @@ each function to display the desired information in the output PDF file.
 Once done the first vector, all you need to do is to copy and paste the same structure for the remaining vectors.
 
 
-After all vectors are called from your database, `data.R`, you can use the command `Knit` in R Studio to generate a PDF file of your curriculum according to Hyndman layout.
+After all vectors are called from your database, `data.R`, you can use the command `Knit` in the file `Hyndman.Rmd` to generate a PDF file of your curriculum, according to chosen layout.
 
 See a real curriculum example in PDF format at: `Curriculum/Hyndman/Hyndman.pdf`.
 
@@ -134,7 +134,7 @@ See a real curriculum example in PDF format at: `Curriculum/Hyndman/Hyndman.pdf`
 ```
 
 
-I hope this description helps you create your own curriculum using Vitae package.
+I hope this tutorial helps you create your own curriculum using Vitae package.
 
 There are 06 layouts available in Vitae package. Choose the one you enjoy most.
 
