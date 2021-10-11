@@ -90,7 +90,8 @@ Vitae package basically works with two functions (keep it simple).
 * `detailed_entries` 
 * `brief_entries`
 
-```Usage
+```
+Usage
 detailed_entries(data, what, when, with, where, why, .protect = TRUE)
 brief_entries   (data, what, when, with, .protect = TRUE)
 
@@ -111,11 +112,12 @@ education %>%
 ```
 
 This is the tricky part, because you need to try-and-error all entries of
-each function to display the correct information in the output PDF file.
+each function to display the desired information in the output PDF file.
+
+Once done the first vector, all you need to do is to copy and paste the same structure for the remaining vectors.
 
 
-
-Once all vectors are called from your database, `data.R`, you can use the command `Knit` in R Studio to generate a PDF file of your curriculum according to Hyndman layout.
+After all vectors are called from your database, `data.R`, you can use the command `Knit` in R Studio to generate a PDF file of your curriculum according to Hyndman layout.
 
 See a real curriculum example in PDF format at: `Curriculum/Hyndman/Hyndman.pdf`.
 
@@ -134,11 +136,15 @@ See a real curriculum example in PDF format at: `Curriculum/Hyndman/Hyndman.pdf`
 
 I hope this description helps you create your own curriculum using Vitae package.
 
-I found valuable information on the following links:
+There are 06 layouts available in Vitae package. Choose the one you enjoy most.
+
+I found valuable information on this topic, at the following links:
 
 * [Mitchelloharawild](https://github.com/mitchelloharawild/vitae)  
 * [Making A Data Driven CV With RMarkdown](https://www.youtube.com/watch?v=cMlRAiQUdD8)  
 
 Have a good day,
 
-Eduardo Lima
+[Eduardo Lima](https://www.linkedin.com/in/eduardo1lima/)
+
+[Twitter](https://twitter.com/Eduardo69564454)
