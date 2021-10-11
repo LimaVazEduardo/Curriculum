@@ -63,8 +63,6 @@ Subject, Where and Year) and will be accessible from `Hyndman.Rmd` script, using
   ```
 7. After running above command, all vectors created in `data.R` file, will be displayed in R Studio tab Environment, on the right hand side.
 
-1. Case it is necessary to update your curriculum, the idea is to update only the file `data.R` and leave `Hyndman.Rmd` do the work of formatting for you. Great 
-isn't it?
 
 ### How it works  
 
@@ -133,8 +131,15 @@ See a real curriculum example in PDF format at: `Curriculum/Hyndman/Hyndman.pdf`
 
 ```
 
+### Why data driven curriculum?
+The main idea behind this concept is to update your curriculum, only by updating the file `data.R` and leave the heavy lifting work of formatting the PDF file for R Markdown script `Hyndman.Rmd`. 
 
-I hope this tutorial helps you create your own curriculum using Vitae package.
+Great isn't it?
+
+
+---
+
+I hope this tutorial helps you create your own curriculum using Vitae package and R Markdown.
 
 There are 06 layouts available in Vitae package. Choose the one you enjoy most.
 
