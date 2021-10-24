@@ -25,9 +25,9 @@ source("../r/data.R")
 # About:
 ```
 I have been learning about software development projects since I finished college.  
-I have seen many technologies coming and going. 
-Many programming languages glowing and fading away.  
-Many management approaches fighting to be number one.  
+  I have seen many technologies coming and going. 
+  Many programming languages glowing and fading away.  
+  Many management approaches fighting to be number one.  
 
 What I have learned so far?  
   People create successful projects, not tools,  
@@ -71,50 +71,16 @@ courses %>%
 
 # Experience:
 ```{r experience}
-dhl %>% 
+experience %>% 
   detailed_entries(what = company,
                    when = date,
                    where = job,
-                   why = desc)
-
-eldorado %>% 
-  detailed_entries(what = company,
-                   when = date,
-                   where = job,
-                   why = desc)
-
-ericsson2 %>% 
-  detailed_entries(what = company,
-                   when = date,
-                   where = job,
-                   why = desc)
-
-fitec %>% 
-  detailed_entries(what = company,
-                   when = date,
-                   where = job,
-                   why = desc)
-
-sanmina %>% 
-  detailed_entries(what = company,
-                   when = date,
-                   where = job,
-                   why = desc)
-
-ericsson1 %>% 
-  detailed_entries(what = company,
-                   when = date,
-                   where = job,
-                   why = desc)
-
-amaral %>% 
-  detailed_entries(what = company,
-                   when = date,
-                   where = job,
-                   why = desc)
+                   why = desc
+                   )
 
 ```
 
+\pagebreak
 
 # Certifications:
 ```{r certifications}
@@ -141,4 +107,16 @@ volunteer %>%
 ```
 
 
+
+# Articles:
+```{r articles}
+articles %>% 
+  detailed_entries(
+    what = description,
+    when = date,
+    where = name,
+    .protect = FALSE
+    )
+
+```
 
